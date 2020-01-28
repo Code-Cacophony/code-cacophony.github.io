@@ -10,7 +10,7 @@ This program runs the main page that indroduces me and links a few of my project
 
 This program was made using HTML, CSS and Bootstrap.
 
-## INSTALLATION 
+## INSTALLATION
 
 * Head to https://github.com/Code-Cacophony/Portfolio
 * Also download Github Pages file from https://github.com/Code-Cacophony/Portfolio/tree/gh-pages
@@ -22,6 +22,7 @@ This program was made using HTML, CSS and Bootstrap.
 * Open Terminal and type "git clone https://github.com/Code-Cacophony/Portfolio.git"
 * cd into the folder
 * Type "code ." in Terminal.
+* To access GithubPages site, download ZIP file from https://github.com/Code-Cacophony/code-cacophony.github.io, or clone link in terminal.
 
 ## KNOWN BUGS
 
